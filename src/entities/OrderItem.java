@@ -32,16 +32,8 @@ public class OrderItem {
 		return price;
 	}
 
-	public void setPrice(Double price) {
-		this.price = price;
-	}
-
 	public Product getProduct() {
 		return product;
-	}
-
-	public void setProduct(Product product) {
-		this.product = product;
 	}
 
 	// Methods
